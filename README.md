@@ -1,10 +1,10 @@
 # Agiobot
 ## Projeto de um Chatbot Agiota 
 
-Chatbots são softwares de comunicação automática via mensagem e estão entre as inovações tecnológicas atuais mais comentadas, em muitas companhias. 
-Empresas grandes e pequenas já utilizam esse canal para modernizar seu atendimento ao cliente.
+Chatbots são softwares de comunicação automática via mensagem que está entre as inovações tecnológicas atuais mais comentadas, usado por companhias. 
+Empresas grandes e pequenas já utilizam esse canal para modernizar seu atendimento.
 
-O agiobot atuará de forma que notificará as pendencias de forma automatizada, essas notificações podem ser via whatsapp instagram ou discord.
+O agiobot atuará de forma que notificará as pendencias de forma automatizada, essas notificações podem ser enviadas para o whatsapp e outros aplicativos.
 
 A primera parte consiste no desenvolvimento da modelagem de dados e desenvolvimento do banco
 
