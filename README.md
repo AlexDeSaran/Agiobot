@@ -10,4 +10,4 @@ A primera parte consiste no desenvolvimento da modelagem de dados e desenvolvime
 
 Linguagem ultilizada para o desenvolvimento Python com o uso de bibliotecas próprias.
 
-[Playlist Sobre o Agiobot](https://www.youtube.com/playlist?list=PL4OAe-tL47sY_4nU4O_OAPurfvmOqswjC)
+[Playlist Sobre o Agiobot](https://www.youtube.com/playlist?list=PL4OAe-tL47sY_4nU4O_OAPurfvmOqswjC) Videos Diariamente.
